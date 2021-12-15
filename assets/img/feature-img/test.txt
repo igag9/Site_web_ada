@@ -1,0 +1,27 @@
+**Three databases were used to answer the research questions :**
+
+<!--more-->
+## Quotebank
+
+As said the 2018 data from quotebank was retrieved. To select the quotes talking about cinema, a selection using the names of films was made.
+
+
+
+## Wikidata
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Wikidata_barcode.svg" alt="startbootstrap" width="500">
+
+
+Then, the Wikidata database was used because it contains information about people, films, etc. In order to answer our research questions, we need to extract the gender and age of movies' protagonists (speakers, producers, actors), and the movies' release date. Metadata about Quotebank's speakers are already provided in files speaker attributes.parquet. The informations for other people will be retrieve via the Wikidata API.
+
+> source : https://www.wikidata.org/
+
+
+
+## IMDb
+
+<img src="https://static.amazon.jobs/teams/53/images/IMDb_Header_Page.jpg?1501027252" alt="startbootstrap" width="500">
+
+Internet Movie Database (IMDb) is an open source database that provides informations about movies. This database is available online, separated in six datasets. This datasets were concatenated and treated in one single dataset. Columns were filtrated regarding of the needs of the research. Columns of interest are the following : title, year, genres, crew (producer, cinematographer, writer), actors, ratings.
+
+> source : https://www.imdb.com/interfaces/
