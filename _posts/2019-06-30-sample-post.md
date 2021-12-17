@@ -2,6 +2,8 @@
 layout: post
 title: Datasets selection
 bootstrap: true
+feature-img: "assets/img/feature-img/archive.jpg"
+thumbnail: "assets/img/feature-img/archive.jpg"
 excerpt_separator: <!--more-->
 ---
 **Three databases were used to answer the research questions :**
