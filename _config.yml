@@ -10,7 +10,7 @@ favicon: assets/ada.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Cinema - is there a gender gap? # Change Blog header text
-header_feature_image: https://images.pexels.com/photos/7991231/pexels-photo-7991231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+header_feature_image: "assets/img/feature-img/salle3.PNG" #https://images.pexels.com/photos/7991231/pexels-photo-7991231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
