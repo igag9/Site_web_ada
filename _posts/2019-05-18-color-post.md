@@ -10,4 +10,4 @@ For this question, we need to retrieve gender and age of speakers. This is done 
 
 {% include aligner.html images="feature-img/q1.jpeg" column=3 %}
 
-This bar plot indicates there are more men who talk about cinema than women.
+It can be observed that there are more men who talk about cinema than women. However, if we consider all the subjects in quotebank, we can observe that women are better represented in the cinema world.
