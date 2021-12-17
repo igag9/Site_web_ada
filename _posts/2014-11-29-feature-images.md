@@ -25,6 +25,6 @@ What is the **response**?
 
 - The rating of a film
 
-{% include aligner.html images="feature-img/q3_a.jpeg" column=3 %}
+{% include aligner.html images="feature-img/Q3_a.jpeg" column=3 %}
 
 As we can see on the graph and the value of the r2=-0.10, it does not seem possible to predict the score with the proposed features
